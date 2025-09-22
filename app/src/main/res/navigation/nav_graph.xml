@@ -22,4 +22,9 @@
             android:name="COFFEE_ID"
             app:argType="integer" />
     </fragment>
+    <fragment
+        android:id="@+id/favoritesFragment2"
+        android:name="com.example.lab_week_04.FavoritesFragment"
+        android:label="fragment_favorites"
+        tools:layout="@layout/fragment_favorites" />
 </navigation>
